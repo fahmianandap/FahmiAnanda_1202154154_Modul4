@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FAHMI ANANDA PRADANA_1202154154_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+    <string name="klik_mencari_gambar">Klik untuk mencari gambar</string>
+    <string name="link_gambar">https://ih0.redbubble.net/image.159500427.3826/flat,800x800,075,f.u5.jpg</string>
+    <!-- buat array -->
+    <string-array name="names">
+        <item>Fahmi</item>
+        <item>Darwo</item>
+        <item>Sukma</item>
+        <item>Sukmi</item>
+        <item>Sukmo</item>
+        <item>Sukmu</item>
+        <item>Sakmi</item>
+        <item>Sakmu</item>
+        <item>Sakmo</item>
+        <item>Sakma</item>
+    </string-array>
+</resources>
